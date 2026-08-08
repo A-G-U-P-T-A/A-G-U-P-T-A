@@ -26,7 +26,19 @@ Also shipping side projects in Flutter, networking tooling, and MCP servers.
 
 ---
 
-### GitHub
+### Activity
+
+<!-- OSS Insight widgets: https://next.ossinsight.io/widgets -->
+
+| Currently Working On - Last 28 days | wireshark-mcp Activity Trends |
+| --- | --- |
+| <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=21005910" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=21005910&image_size=auto&color_scheme=dark"><img alt="Currently working on" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=21005910&image_size=auto&color_scheme=light"></picture></a> | <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=958029965" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=958029965&image_size=auto&color_scheme=dark"><img alt="wireshark-mcp activity trends" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=958029965&image_size=auto&color_scheme=light"></picture></a> |
+
+| wireshark-mcp Star History | qr-file-transfer Activity Trends |
+| --- | --- |
+| <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=958029965" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=958029965&image_size=auto&color_scheme=dark"><img alt="wireshark-mcp star history" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=958029965&image_size=auto&color_scheme=light"></picture></a> | <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=1327647895" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1327647895&image_size=auto&color_scheme=dark"><img alt="qr-file-transfer activity trends" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1327647895&image_size=auto&color_scheme=light"></picture></a> |
 
 ![GitHub stats](./profile/stats.svg)
 ![Top languages](./profile/top-langs.svg)
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->

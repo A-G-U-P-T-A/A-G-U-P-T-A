@@ -28,11 +28,11 @@ Senior Software Engineer with **6+ years** designing and operating high-throughp
 | Role | Company | When |
 | --- | --- | --- |
 | Senior Software Engineer - 2 | [Gupshup](https://www.gupshup.io/) | Oct 2025 – Present |
-| Senior Software Engineer - 1 | Gupshup | Nov 2023 – Sep 2025 |
-| Senior Software Engineer | Airtel Africa Digital Labs | Jul 2022 – Oct 2023 |
-| Software Engineer | Airtel Africa Digital Labs | Dec 2020 – Jun 2022 |
-| Software Engineer | Tracxn Technologies | May 2020 – Oct 2020 |
-| Associate Software Engineer | Quikr India | Jul 2019 – May 2020 |
+| Senior Software Engineer - 1 | [Gupshup](https://www.gupshup.io/) | Nov 2023 – Sep 2025 |
+| Senior Software Engineer | [Airtel Africa](https://www.airtel.africa/) Digital Labs | Jul 2022 – Oct 2023 |
+| Software Engineer | [Airtel Africa](https://www.airtel.africa/) Digital Labs | Dec 2020 – Jun 2022 |
+| Software Engineer | [Tracxn Technologies](https://tracxn.com/) | May 2020 – Oct 2020 |
+| Associate Software Engineer | [Quikr India](https://www.quikr.com/) | Jul 2019 – May 2020 |
 
 ### Stack
 

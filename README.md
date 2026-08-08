@@ -1,27 +1,41 @@
 # Arnab Gupta
 
-**Senior Distributed Systems & Infrastructure Engineer** · Bengaluru, India
+### Senior Distributed Systems & Infrastructure Engineer
+**Bengaluru, India** · Open to **freelance / contract / consulting**
 
-I build the systems that don't fall over at 3am — high-throughput messaging, caching, and cloud-native platforms that stay up under load.
+I build systems that don't fall over at 3am — high-throughput backends, Redis & messaging infrastructure, Kubernetes platforms, and AI tooling that ships.
 
-[Portfolio](https://cvfy.dev/u/arnabgupta) · [LinkedIn](https://www.linkedin.com/in/arnab-gupta-304a17137/) · [X](https://x.com/A_GUPTA_) · [GitHub](https://github.com/A-G-U-P-T-A) · [Email](mailto:arnabgupta91996@gmail.com)
+**Available for short-term and long-term engagements.** Prefer remote; IST-friendly overlap.
+
+[📧 Email me](mailto:arnabgupta91996@gmail.com) · [Portfolio](https://cvfy.dev/u/arnabgupta) · [LinkedIn](https://www.linkedin.com/in/arnab-gupta-304a17137/) · [X](https://x.com/A_GUPTA_) · [GitHub](https://github.com/A-G-U-P-T-A)
 
 ---
 
-### About
+### Hire me for
 
-Senior Software Engineer with **6+ years** designing and operating high-throughput distributed systems and cloud-native infrastructure. I work across **Java, Python, C, and Rust**, and spend most of my time on performance, reliability, and systems that have to scale.
+| Engagement | Outcomes |
+| --- | --- |
+| **Performance & scale** | Latency / throughput wins, load testing, profiling, concurrency fixes |
+| **Distributed systems** | Rate limiting, prioritization, caches, queues, Redis-backed services |
+| **Cloud-native infra** | Kubernetes migrations, Docker/runtime optimization, CI/CD hardening |
+| **Backend delivery** | APIs, microservices, Spring Boot / FastAPI services from design to prod |
+| **AI agent tooling** | MCP servers, LangGraph agents, LLM-assisted workflows |
+| **Integrations** | Slack bots, workspace automation, webhook / event pipelines |
 
-### What I do
+6+ years shipping production systems at [Gupshup](https://www.gupshup.io/), [Airtel Africa](https://www.airtel.africa/), [Tracxn](https://tracxn.com/), and [Quikr](https://www.quikr.com/). Comfortable owning a problem end-to-end or plugging into an existing team.
 
-- Design and ship **rate limiting, prioritization, and traffic-shaping** systems for high-volume messaging platforms
-- Build **distributed caches and Redis-backed libraries** that hold up under heavy concurrent load
-- Run production services on **Kubernetes** — migrations, autoscaling, image/runtime optimization, CI/CD
-- Improve **latency, throughput, and cost** through profiling, load testing, and careful concurrency design
-- Modernize legacy services into **containerized, cloud-native** architectures
-- Build **APIs, microservices, and data pipelines** (search, analytics, reconciliation, KYC-scale workloads)
-- Experiment with **AI agent tooling** (MCP, LangGraph, LLM-assisted workflows)
-- Configure and build **Slack bots** and workspace integrations
+---
+
+### How I work
+
+- Clear scope, weekly checkpoints, async-first communication
+- Production-minded: observability, tests, rollbacks, cost awareness
+- Can join as contractor for a spike, a migration, or an ongoing retainer
+- Stack fluency: **Java · Python · C · Rust** plus Redis, K8s, AWS, messaging
+
+→ **Start a conversation:** [arnabgupta91996@gmail.com](mailto:arnabgupta91996@gmail.com)
+
+---
 
 ### Experience
 
@@ -49,7 +63,7 @@ Senior Software Engineer with **6+ years** designing and operating high-throughp
 
 ### Selected projects
 
-- **[Dola AI](https://dolaai.pro/)** — Unreal Engine AI copilot (**WIP, closed source**) — agents for Blueprints, editor automation, and project knowledge (Python, LangGraph, MCP, native UE plugin)
+- **[Dola AI](https://dolaai.pro/)** — Unreal Engine AI copilot (**WIP, closed source**) — agents for Blueprints, editor automation, and project knowledge
 - **[Wireshark MCP](https://github.com/A-G-U-P-T-A/wireshark-mcp)** — Packet analysis for AI agents via TShark / Wireshark
 - **[EmbeddedMQ](https://github.com/A-G-U-P-T-A/EmbeddedMQ)** — Embedded low-latency message queue · [docs](https://a-g-u-p-t-a.github.io/EmbeddedMQ/)
 - **[qr-file-transfer](https://github.com/A-G-U-P-T-A/qr-file-transfer)** — Offline file transfer by flashing QR frames · [demo](https://a-g-u-p-t-a.github.io/qr-file-transfer/)

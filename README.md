@@ -28,5 +28,5 @@ Also shipping side projects in Flutter, networking tooling, and MCP servers.
 
 ### GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=A-G-U-P-T-A&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-G-U-P-T-A&layout=compact&theme=github_dark&hide_border=true)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)

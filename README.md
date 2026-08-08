@@ -4,7 +4,7 @@
 
 Backend-leaning full-stack engineer. I build the systems that don't fall over at 3am.
 
-[Portfolio](https://cvfy.dev/u/arnabgupta) · [LinkedIn](https://www.linkedin.com/in/arnab-gupta-304a17137/) · [GitHub](https://github.com/A-G-U-P-T-A)
+[Portfolio](https://cvfy.dev/u/arnabgupta) · [LinkedIn](https://www.linkedin.com/in/arnab-gupta-304a17137/) · [X](https://x.com/A_GUPTA_) · [GitHub](https://github.com/A-G-U-P-T-A)
 
 ---
 

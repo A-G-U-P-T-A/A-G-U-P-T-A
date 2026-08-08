@@ -49,7 +49,7 @@ Senior Software Engineer with **6+ years** designing and operating high-throughp
 
 ### Selected projects
 
-- **[Dola AI](https://dolaai.pro)** — Multi-agent Unreal Engine platform (Python, LangGraph, MCP, native UE plugin)
+- **[Dola AI](https://dolaai.pro/)** — Unreal Engine AI copilot (**WIP, closed source**) — agents for Blueprints, editor automation, and project knowledge (Python, LangGraph, MCP, native UE plugin)
 - **[Wireshark MCP](https://github.com/A-G-U-P-T-A/wireshark-mcp)** — Packet analysis for AI agents via TShark / Wireshark
 - **[EmbeddedMQ](https://github.com/A-G-U-P-T-A/EmbeddedMQ)** — Embedded low-latency message queue · [docs](https://a-g-u-p-t-a.github.io/EmbeddedMQ/)
 - **[qr-file-transfer](https://github.com/A-G-U-P-T-A/qr-file-transfer)** — Offline file transfer by flashing QR frames · [demo](https://a-g-u-p-t-a.github.io/qr-file-transfer/)

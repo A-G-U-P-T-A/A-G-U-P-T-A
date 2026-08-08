@@ -67,7 +67,7 @@ I build systems that don't fall over at 3am — high-throughput backends, Redis 
 - **[Wireshark MCP](https://github.com/A-G-U-P-T-A/wireshark-mcp)** — Packet analysis for AI agents via TShark / Wireshark
 - **[EmbeddedMQ](https://github.com/A-G-U-P-T-A/EmbeddedMQ)** — Embedded low-latency message queue · [docs](https://a-g-u-p-t-a.github.io/EmbeddedMQ/)
 - **[qr-file-transfer](https://github.com/A-G-U-P-T-A/qr-file-transfer)** — Offline file transfer by flashing QR frames · [demo](https://a-g-u-p-t-a.github.io/qr-file-transfer/)
-- **[Essentials C++](https://www.fab.com)** — Production Unreal Engine 5 plugin (Fab Marketplace)
+- **[Essentials C++](https://www.fab.com/listings/9e566211-5590-4288-9168-1676da100d24)** — Production Unreal Engine 5 plugin (Fab Marketplace) · [docs](https://essentialscpp.readthedocs.io/en/latest/index.html)
 - **[Draw Any](https://draw-any.up.railway.app)** — Natural language → structured flowcharts
 
 ### Education

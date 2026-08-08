@@ -2,7 +2,7 @@
 
 **Senior Distributed Systems & Infrastructure Engineer** · Bengaluru, India
 
-I build the systems that don't fall over at 3am — high-throughput messaging, Redis-backed infrastructure, and Kubernetes platforms that stay up under load.
+I build the systems that don't fall over at 3am — high-throughput messaging, caching, and cloud-native platforms that stay up under load.
 
 [Portfolio](https://cvfy.dev/u/arnabgupta) · [LinkedIn](https://www.linkedin.com/in/arnab-gupta-304a17137/) · [X](https://x.com/A_GUPTA_) · [GitHub](https://github.com/A-G-U-P-T-A) · [Email](mailto:arnabgupta91996@gmail.com)
 
@@ -10,15 +10,17 @@ I build the systems that don't fall over at 3am — high-throughput messaging, R
 
 ### About
 
-Senior Software Engineer with **6+ years** designing and operating high-throughput distributed systems and cloud-native infrastructure. Fluent across **Java, Python, C, and Rust**, with depth in Redis, Kubernetes, messaging, and performance engineering — plus recent work on AI agent tooling.
+Senior Software Engineer with **6+ years** designing and operating high-throughput distributed systems and cloud-native infrastructure. I work across **Java, Python, C, and Rust**, and spend most of my time on performance, reliability, and systems that have to scale.
 
-### Selected impact
+### What I do
 
-- Built a **Rust/C prioritization engine** (Redis-backed TPS control + rate limiting) now serving **90%+ of WhatsApp forward traffic** and **100% of RCS**, expanding into SMS and Truecaller
-- Sustained **50,000+ req/s** on a centralized distributed cache platform (MSPS) across multiple business verticals
-- Migrated production traffic exceeding **345M requests/day** onto Kubernetes (off EC2)
-- Cut deployment/scale-out time **76%** (60s → 14s) with a custom Java runtime; shrank Docker images **75%** (800MB → 200MB)
-- Scaled a facial-comparison KYC platform to **500,000 req/hour** across two African markets; improved API response time **400%** at Airtel Africa
+- Design and ship **rate limiting, prioritization, and traffic-shaping** systems for high-volume messaging platforms
+- Build **distributed caches and Redis-backed libraries** that hold up under heavy concurrent load
+- Run production services on **Kubernetes** — migrations, autoscaling, image/runtime optimization, CI/CD
+- Improve **latency, throughput, and cost** through profiling, load testing, and careful concurrency design
+- Modernize legacy services into **containerized, cloud-native** architectures
+- Build **APIs, microservices, and data pipelines** (search, analytics, reconciliation, KYC-scale workloads)
+- Experiment with **AI agent tooling** (MCP, LangGraph, LLM-assisted workflows)
 
 ### Experience
 
@@ -30,8 +32,6 @@ Senior Software Engineer with **6+ years** designing and operating high-throughp
 | Software Engineer | Airtel Africa Digital Labs | Dec 2020 – Jun 2022 |
 | Software Engineer | Tracxn Technologies | May 2020 – Oct 2020 |
 | Associate Software Engineer | Quikr India | Jul 2019 – May 2020 |
-
-**Focus today @ Gupshup:** distributed prioritization (Rust/C), Redis-backed libraries (cluster / sentinel / standalone), MSPS webhook-queue isolation, and next-gen RCS aggregator queue architecture.
 
 ### Stack
 

@@ -21,6 +21,7 @@ Senior Software Engineer with **6+ years** designing and operating high-throughp
 - Modernize legacy services into **containerized, cloud-native** architectures
 - Build **APIs, microservices, and data pipelines** (search, analytics, reconciliation, KYC-scale workloads)
 - Experiment with **AI agent tooling** (MCP, LangGraph, LLM-assisted workflows)
+- Configure and build **Slack bots** and workspace integrations
 
 ### Experience
 
@@ -35,11 +36,16 @@ Senior Software Engineer with **6+ years** designing and operating high-throughp
 
 ### Stack
 
-`Java` `Python` `C` `Rust` `SQL` `Bash`  
-`Redis` `RabbitMQ` `Kubernetes` `Docker` `RocksDB` `SeaweedFS`  
-`Spring Boot` `FastAPI` `AWS` `GitLab CI/CD` `JMeter`  
-`MySQL` `BigQuery` `Elasticsearch` `MongoDB`  
-`LLM Agents` `MCP` `LangGraph` `Cursor`
+| | |
+| --- | --- |
+| **Languages** | Java, Python, C, Rust, SQL, Bash |
+| **Frameworks & Backend** | Spring Boot, FastAPI, REST APIs, Microservices |
+| **Distributed Systems & Infra** | Redis, RabbitMQ, Kubernetes, Docker, RocksDB, SeaweedFS |
+| **Cloud & DevOps** | AWS, GitLab CI/CD, Jenkins, Linux |
+| **Data** | MySQL, Google BigQuery, Elasticsearch, MongoDB |
+| **AI & Developer Tooling** | LLM Agents, MCP, LangGraph, OpenRouter, Cursor |
+| **Integrations** | Slack bots & workspace automation |
+| **Performance** | JMeter, load testing, profiling, concurrency, throughput optimization |
 
 ### Selected projects
 
